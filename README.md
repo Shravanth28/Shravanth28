@@ -1,4 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/172/393/135/minimalism-glasses-dinosaur-art-wallpaper-preview.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.iloveimg.com/download/gj85zt6b8A497qf4p19k62sn3s4q1q7bpr1m5qr5ct8x2qhgwwz5yvhrfcbvdrwr9t5s6pvhkst4spp19Ab1z2g0lAg19dmgm42wztpv9bys6pwwfm3c8t6pdqsqbc7pwg4ydz6tz5vpjs8yhnsmwznbltl1ld0hyv2ym74xl90r2bg8ty8q/14)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shravanth Jagadish</h1>
 <h3 align="center">Aspiring software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
