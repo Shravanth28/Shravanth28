@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pixel4k.com/wp-content/uploads/2024/01/halo-the-master-chief-game-4k-3840x2160_1704149632-300x200.jpg.webp)](https://rishavchanda.io)
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/651/727/590/gaming-setup-steelseries-keyboards-headphones-mouse-pad-hd-wallpaper-preview.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shravanth Jagadish</h1>
 <h3 align="center">Aspiring software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
