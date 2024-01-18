@@ -1,4 +1,4 @@
-[![MasterHead]([https://c4.wallpaperflare.com/wallpaper/792/187/684/game-over-video-games-retro-games-distortion-wallpaper-preview.jpg](https://c4.wallpaperflare.com/wallpaper/985/271/707/video-games-game-over-space-invaders-black-background-wallpaper-preview.jpg))](https://rishavchanda.io)
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/985/271/707/video-games-game-over-space-invaders-black-background-wallpaper-preview.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shravanth Jagadish</h1>
 <h3 align="center">Aspiring software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
