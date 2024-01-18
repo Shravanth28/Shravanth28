@@ -1,4 +1,4 @@
-[![MasterHead]([https://images7.alphacoders.com/865/865098.jpg](https://c4.wallpaperflare.com/wallpaper/560/984/964/artwork-neon-neon-glow-cats-street-hd-wallpaper-preview.jpg))](https://rishavchanda.io)
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/936/786/386/video-game-outdrive-car-chillwave-wallpaper-preview.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shravanth Jagadish</h1>
 <h3 align="center">Aspiring software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://images7.alphacoders.com/865/865098.jpg">
