@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://sj-portfolio.onrender.com/](https://sj-portfolio.onrender.com/)
 
-- 💬 Ask me about **NodeJS , Flutter , Machine Learning ,**
+- 💬 Ask me about: **NodeJS , Flutter , Machine Learning ,**
 
-- 📫 How to reach me **shravanth.cs21@bmsce.ac.in**
+- 📫 How to reach me: **shravanth.cs21@bmsce.ac.in**
 
-- ⚡ Fun fact **I will get Ole maari**
+- ⚡ Fun fact: **I will get Ole maari**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
