@@ -1,4 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/651/727/590/gaming-setup-steelseries-keyboards-headphones-mouse-pad-hd-wallpaper-preview.jpg)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/e9056a354cc12533e7b7b25cb7f12faafb6a50090114c16ea975fcfc439b5324/68747470733a2f2f63342e77616c6c7061706572666c6172652e636f6d2f77616c6c70617065722f3635312f3732372f3539302f67616d696e672d73657475702d737465656c7365726965732d6b6579626f617264732d6865616470686f6e65732d6d6f7573652d7061642d68642d77616c6c70617065722d707265766965772e6a7067)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shravanth Jagadish</h1>
 <h3 align="center">Aspiring software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
