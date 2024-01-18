@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.wallpapersafari.com/43/85/MV0Uo9.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.pixel4k.com/wp-content/uploads/2024/01/halo-the-master-chief-game-4k-3840x2160_1704149632-300x200.jpg.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shravanth Jagadish</h1>
 <h3 align="center">Aspiring software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
